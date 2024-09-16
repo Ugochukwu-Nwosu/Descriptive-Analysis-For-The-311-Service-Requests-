@@ -22,6 +22,8 @@ Reporting Channel: This indicates how the request was made and reported (phone, 
 
 ## Methodology:
 
+![311 Service Requests drawio](https://github.com/user-attachments/assets/e58f0b0e-64d9-4077-a1cf-8f7a3f70ab8c)
+
 ### Data Collection and Preparation:
 	
 This process involves gathering the necessary dataset from Vancouver’s Open Data Portal, explicitly focusing on 3-1-1 service requests related to "Abandoned Non-Recyclables—Small Case." The collected data is then loaded into Google Colab, where Pandas reads it into a data frame for subsequent data cleaning, ensuring that the data is ready for descriptive analysis.
