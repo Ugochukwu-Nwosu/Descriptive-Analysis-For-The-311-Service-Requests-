@@ -32,6 +32,25 @@ This process involves gathering the necessary dataset from Vancouver’s Open Da
 
 Now that the data is cleaned and combined, descriptive statistical analysis for 2023 and 2024 is done. This dataset provides a summary of the service requests made on non-recyclable items that are abandoned in Vancouver. There were a total of 1,317 service requests that were all addressed by the ENG – Sanitation Services. Among these, 1,305 requests (99%) can be considered closed, while 12 (1%) remain open, showing high closure rates. The total time it took to close a request was, on average, 6 days, 16 hours, and 22 minutes, which is efficient. For geographic distribution, Downtown received the most dominant number of requests at 265, while Grandview-Woodland and Strathcona ranked second and third, respectively. There were slightly fewer requests for other small neighborhoods, such as Arbutus Ridge and West Point Grey, with only a few cases. The most significant number of service requests were through the Mobile App, with 768 requests at 58%, followed by the Phone, with 303 requests at 23% and WEB, with 244 requests at 19%, with little entries from Social Media. The findings of this study show that engagement is high through digital means and service issues are efficiently resolved in critical neighborhoods. 
 
+### The Data Visuaizations
+
+![Service_requests_by_Department](https://github.com/user-attachments/assets/b1a2e6ce-5674-44b5-9fe6-d4067d4e09bb)
+
+![Service_Request_Status](https://github.com/user-attachments/assets/7f99cb69-ce68-48ac-9bcc-241e28dc4edc)
+
+![Service_Requests_By_Local_Area](https://github.com/user-attachments/assets/2f6ea94c-bbff-4ccb-abc0-567721afd313)
+
+![Service_Requests_By_LocalArea_2024](https://github.com/user-attachments/assets/9c9cf6dc-64ee-4d06-93a9-7818c92668f9)
+
+![Service_requests_By_Channel](https://github.com/user-attachments/assets/f373310b-ad5b-44e1-ab89-3b72616addc3)
+
+![TimeTo Close Request2023](https://github.com/user-attachments/assets/a701b01f-7c1c-45b2-8d64-7c24c9a00486)
+
+![Time To Close Request 2024](https://github.com/user-attachments/assets/f99c3320-d07e-4646-9802-1b0463f497f5)
+
+![Service Requests From Both Datasets By Local Area and Month](https://github.com/user-attachments/assets/1068bce4-9e89-4553-a48e-ba63dd63b99a)
+
+
 ### Key Insights and Findings
 This research explored the 311 service requests for the abandoned non-recyclables in Vancouver and here are the analysis that offers a range of insights and findings. Thus, these results reflect the effectiveness of services that provide garbage disposal in the city, the involvement of various districts, as well as the specified methods of reporting.
 
