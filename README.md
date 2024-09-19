@@ -9,7 +9,11 @@ Improving Waste Management: Analyzing Service Requests for Abandoned Non-Recycla
 ## Objective:
 This project will conduct a descriptive study on ‘Service Requests: Abandoned Non-recyclable Items’ in Vancouver. The analysis is intended to provide an overview of the critical patterns of service requests and discover trends and issues that will enhance the service for waste management in the city, especially about non-recyclable waste.
 
-## Dataset:
+## Dataset From Vancouver Open Data Portal:
+
+![2023Datasets](https://github.com/user-attachments/assets/936de101-485e-4da2-9b7a-d2c84bd2e9fb)
+![2024Dataset](https://github.com/user-attachments/assets/480095a0-be6b-4788-a884-19f6bb92ea53)
+
 The data involves services made through the 3-1-1 system of Vancouver between the years 2023 and 2024. The key features of the dataset are:
 Request ID: A code assigned to every service request made.
 Request Date: The date and time of request implies the time when the request was made
