@@ -41,6 +41,40 @@ This process involves gathering the necessary dataset from Vancouver’s Open Da
 
 ### The DAP Design and Implementation On AWS Cloud
 
+Data Ingestion:
+![311 Ingest1](https://github.com/user-attachments/assets/077a476a-c1ff-4f70-bb48-c694a0ee0718)
+![Ingest2](https://github.com/user-attachments/assets/cc389615-ca02-43d7-aa68-59ccebe47476)
+
+Data Storage:
+![Data Storage](https://github.com/user-attachments/assets/da14dcd7-275e-4237-893e-bd9eae557836)
+
+Data Cleaning:
+![DataCleaning1](https://github.com/user-attachments/assets/07ca48db-b6ff-4f55-b095-8a449d446411)
+![DatCleaning2](https://github.com/user-attachments/assets/0ed753b9-26fe-4839-a4dd-42b2f3129c12)
+
+Data Pipeline Implementation:
+![ETL1](https://github.com/user-attachments/assets/2982e985-decf-4190-b697-2ef924229d6e)
+![ETL2](https://github.com/user-attachments/assets/448f5013-3a5c-4882-aa84-8c3b38e35554)
+
+Data Analysis:
+![DataAnalysis1](https://github.com/user-attachments/assets/d5a2885b-d322-4ad3-a100-4c5056341b79)
+![DatAnalysis2](https://github.com/user-attachments/assets/72ecd5fe-64c2-4cf8-a301-697f6fb0f518)
+
+Data Publishing:
+![Data Publishing](https://github.com/user-attachments/assets/3f91fc23-7052-45a6-9776-754ed0604298)
+
+Data Protection:
+![DataProtection Through SS3 keys](https://github.com/user-attachments/assets/51bface9-f274-490c-a6d6-c18bcb1b2101)
+![Data Protection](https://github.com/user-attachments/assets/1a363c21-b2c5-4d4a-b582-d03667b2f170)
+
+Data Governance:
+![DataGovernance](https://github.com/user-attachments/assets/0e304f79-dfaf-42cc-86a8-9239c400f1a0)
+
+Data Monitoring:
+![Data Monitoring 3](https://github.com/user-attachments/assets/76f04d62-7e2c-44db-b45b-fbfbd9b579ff)
+![Data Monitoring](https://github.com/user-attachments/assets/05e9f3ef-a8df-4be0-a4d7-646e2396df04)
+![DataMonitring](https://github.com/user-attachments/assets/358dac18-ad40-47f7-90d5-b1a0d0e7afce)
+
 ### The Descriptive Statistics
 
 Now that the data is cleaned and combined, descriptive statistical analysis for 2023 and 2024 is done. This dataset provides a summary of the service requests made on non-recyclable items that are abandoned in Vancouver. There were a total of 1,317 service requests that were all addressed by the ENG – Sanitation Services. Among these, 1,305 requests (99%) can be considered closed, while 12 (1%) remain open, showing high closure rates. The total time it took to close a request was, on average, 6 days, 16 hours, and 22 minutes, which is efficient. For geographic distribution, Downtown received the most dominant number of requests at 265, while Grandview-Woodland and Strathcona ranked second and third, respectively. There were slightly fewer requests for other small neighborhoods, such as Arbutus Ridge and West Point Grey, with only a few cases. The most significant number of service requests were through the Mobile App, with 768 requests at 58%, followed by the Phone, with 303 requests at 23% and WEB, with 244 requests at 19%, with little entries from Social Media. The findings of this study show that engagement is high through digital means and service issues are efficiently resolved in critical neighborhoods. 
