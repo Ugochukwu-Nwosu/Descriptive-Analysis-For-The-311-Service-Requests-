@@ -24,6 +24,8 @@ Status: Whether the request is done or still in process
 Neighborhood: The specific neighborhood within the catchment area of Vancouver from which the request can be made.
 Reporting Channel: This indicates how the request was made and reported (phone, internet, among others).
 
+## The Data Pipeline
+
 ## Methodology:
 
 ![311 Service Requests drawio](https://github.com/user-attachments/assets/e58f0b0e-64d9-4077-a1cf-8f7a3f70ab8c)
