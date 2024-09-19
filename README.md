@@ -34,20 +34,26 @@ Now that the data is cleaned and combined, descriptive statistical analysis for 
 
 ### The Data Visuaizations
 
+#### Bar Plot for Service Requests by Department For 2023 and 2024
 ![Service_requests_by_Department](https://github.com/user-attachments/assets/b1a2e6ce-5674-44b5-9fe6-d4067d4e09bb)
 
+#### Pie Chart for Service Request Status For 2023 and 2024
 ![Service_Request_Status](https://github.com/user-attachments/assets/7f99cb69-ce68-48ac-9bcc-241e28dc4edc)
 
+#### Bar Plot for Service Requests by Local Area (Neighborhood) For 2023 and 2024
 ![Service_Requests_By_Local_Area](https://github.com/user-attachments/assets/2f6ea94c-bbff-4ccb-abc0-567721afd313)
 
 ![Service_Requests_By_LocalArea_2024](https://github.com/user-attachments/assets/9c9cf6dc-64ee-4d06-93a9-7818c92668f9)
 
+#### Pie Chart for Service Requests by Channel For 2023 and 2024
 ![Service_requests_By_Channel](https://github.com/user-attachments/assets/f373310b-ad5b-44e1-ab89-3b72616addc3)
 
+#### Histogram of Time to Close a Service Request For 2023 and 2024.
 ![TimeTo Close Request2023](https://github.com/user-attachments/assets/a701b01f-7c1c-45b2-8d64-7c24c9a00486)
 
 ![Time To Close Request 2024](https://github.com/user-attachments/assets/f99c3320-d07e-4646-9802-1b0463f497f5)
 
+#### Heatmap of Service Requests by Local Area and Month (2023 & 2024)
 ![Service Requests From Both Datasets By Local Area and Month](https://github.com/user-attachments/assets/1068bce4-9e89-4553-a48e-ba63dd63b99a)
 
 
