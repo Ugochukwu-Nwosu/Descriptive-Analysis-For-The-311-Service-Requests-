@@ -9,6 +9,10 @@ Improving Waste Management: Analyzing Service Requests for Abandoned Non-Recycla
 ## Objective:
 This project will conduct a descriptive study on ‘Service Requests: Abandoned Non-recyclable Items’ in Vancouver. The analysis is intended to provide an overview of the critical patterns of service requests and discover trends and issues that will enhance the service for waste management in the city, especially about non-recyclable waste.
 
+## Methodology:
+
+![311 Service Requests drawio](https://github.com/user-attachments/assets/e58f0b0e-64d9-4077-a1cf-8f7a3f70ab8c)
+
 ## Dataset From Vancouver Open Data Portal:
 
 ![2023Datasets](https://github.com/user-attachments/assets/936de101-485e-4da2-9b7a-d2c84bd2e9fb)
@@ -26,13 +30,16 @@ Reporting Channel: This indicates how the request was made and reported (phone, 
 
 ## The Data Pipeline
 
-## Methodology:
-
-![311 Service Requests drawio](https://github.com/user-attachments/assets/e58f0b0e-64d9-4077-a1cf-8f7a3f70ab8c)
+![Pipeline1](https://github.com/user-attachments/assets/204e3260-75c4-4e7d-8673-2d09bf9a4e6d)
+![Pipeline2](https://github.com/user-attachments/assets/21e895b7-f6ad-4fea-8535-36266c9f8041)
+![Pipeline3](https://github.com/user-attachments/assets/29ec44e3-2596-4cac-a8ff-ecd016ecc649)
+![Pipeline4](https://github.com/user-attachments/assets/5a045729-ac70-4491-b458-07e1ab00b017)
 
 ### Data Collection and Preparation:
 	
-This process involves gathering the necessary dataset from Vancouver’s Open Data Portal, explicitly focusing on 3-1-1 service requests related to "Abandoned Non-Recyclables—Small Case." The collected data is then loaded into Google Colab, where Pandas reads it into a data frame for subsequent data cleaning, ensuring that the data is ready for descriptive analysis.
+This process involves gathering the necessary dataset from Vancouver’s Open Data Portal, explicitly focusing on 3-1-1 service requests related to "Abandoned Non-Recyclables—Small Case." The data ingestion process moves the prepared datasets into the operational environment. It loads them into the target locations of Amazon S3 and Google Colab. Pandas reads it into a data frame for subsequent cleaning, ensuring the data is ready for descriptive analysis. 
+
+### The DAP Design and Implementation On AWS Cloud
 
 ### The Descriptive Statistics
 
